@@ -1,3 +1,5 @@
+This is a companion repository to my [Unmanaging Unity blogpost](https://blog.s-schoener.com/2024-11-02-unmanaging-unity/).
+
 There are three things in this repository.
 
 - `UnityExposedProject` is a Unity project that produces an assembly `UnityExposed.dll` so that dependencies are correctly setup. Note that this script has a hardcoded path to a Unity DLL. You need to adapt it to your local setup to run it.
